@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="D:\MyFiles\Projects\Fantasy Tactic\app\src\main\res" >
+            <file
+                name="icon"
+                path="D:\MyFiles\Projects\Fantasy Tactic\app\src\main\res\drawable\icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="main"
+                path="D:\MyFiles\Projects\Fantasy Tactic\app\src\main\res\layout\main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="D:\MyFiles\Projects\Fantasy Tactic\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="app_name" >Tutorial Part II
+                </string>
+                <string name="hello" >Hello World, TutorialPartII!
+                </string>
+            </file>
+        </source>
+        <source path="D:\MyFiles\Projects\Fantasy Tactic\app\build\res\rs\debug" />
+        <source path="D:\MyFiles\Projects\Fantasy Tactic\app\build\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="D:\MyFiles\Projects\Fantasy Tactic\app\src\debug\res" />
+    </dataSet>
+
+</merger>

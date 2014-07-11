@@ -1,6 +1,6 @@
 <!-- From: file:/D:/MyFiles/Projects/Fantasy%20Tactic/app/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="se.jayway.opengl.tutorial">
     <application android:icon="@drawable/icon" android:label="@string/app_name">
-        <activity android:label="@string/app_name" android:name="se.jayway.opengl.tutorial.TutorialPartV">
+        <activity android:label="@string/app_name" android:name="se.jayway.opengl.tutorial.FantasyTacticGameActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
