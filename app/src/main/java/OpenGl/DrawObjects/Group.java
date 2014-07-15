@@ -1,4 +1,4 @@
-package se.jayway.opengl.tutorial.mesh;
+package OpenGl.DrawObjects;
 
 import java.util.Vector;
 

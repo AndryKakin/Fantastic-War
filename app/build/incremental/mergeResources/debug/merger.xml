@@ -9,17 +9,47 @@
                 qualifiers=""
                 type="drawable" />
             <file
+                name="activity_start_game"
+                path="D:\MyFiles\Projects\Fantasy Tactic\app\src\main\res\layout\activity_start_game.xml"
+                qualifiers=""
+                type="layout" />
+            <file
                 name="main"
                 path="D:\MyFiles\Projects\Fantasy Tactic\app\src\main\res\layout\main.xml"
                 qualifiers=""
                 type="layout" />
             <file
+                name="start_game"
+                path="D:\MyFiles\Projects\Fantasy Tactic\app\src\main\res\menu\start_game.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="D:\MyFiles\Projects\Fantasy Tactic\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
                 path="D:\MyFiles\Projects\Fantasy Tactic\app\src\main\res\values\strings.xml"
                 qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_activity_start_game" >StartGameActivity
+                </string>
                 <string name="app_name" >Tutorial Part II
+                </string>
+                <string name="hello_world" >Hello world!
                 </string>
                 <string name="hello" >Hello World, TutorialPartII!
                 </string>
+            </file>
+            <file
+                path="D:\MyFiles\Projects\Fantasy Tactic\app\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
             </file>
         </source>
         <source path="D:\MyFiles\Projects\Fantasy Tactic\app\build\res\rs\debug" />

@@ -1,10 +1,12 @@
-package se.jayway.opengl.tutorial;
+package Activities;
 
 import android.app.Activity;
 import android.opengl.GLSurfaceView;
 import android.os.Bundle;
 import android.view.Window;
 import android.view.WindowManager;
+
+import OpenGl.OpenGLRenderer;
 
 public class FantasyTacticGameActivity extends Activity {
     /** Called when the activity is first created. */

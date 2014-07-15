@@ -5,8 +5,8 @@ android {
     buildToolsVersion "19.0.3"
 
     defaultConfig {
-        minSdkVersion 3
-        targetSdkVersion 3
+        minSdkVersion 19
+        targetSdkVersion 19
         compileOptions {
             sourceCompatibility JavaVersion.VERSION_1_5
             targetCompatibility JavaVersion.VERSION_1_5

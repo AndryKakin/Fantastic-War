@@ -1,10 +1,13 @@
-package se.jayway.opengl.tutorial.mesh;
+package OpenGl.DrawObjects;
 
 /**
  * Created by andrey.kakin on 11.07.14.
  */
-public class ElfUIModel extends Mesh {
-    public ElfUIModel(float width, float height, float depth) {
+public class CityUIModel extends Mesh {
+    public CityUIModel() {
+        float width = 1;
+        float height = 1;
+        float depth = 1;
         width  /= 2;
         height /= 2;
         depth  /= 2;

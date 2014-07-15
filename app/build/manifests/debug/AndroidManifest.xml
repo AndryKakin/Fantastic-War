@@ -1,13 +1,22 @@
 <!-- From: file:/D:/MyFiles/Projects/Fantasy%20Tactic/app/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="se.jayway.opengl.tutorial">
+
     <application android:icon="@drawable/icon" android:label="@string/app_name">
-        <activity android:hardwareAccelerated="true" android:label="@string/app_name" android:name="se.jayway.opengl.tutorial.FantasyTacticGameActivity">
+        <activity android:hardwareAccelerated="true" android:label="@string/app_name" android:name="Activities.FantasyTacticGameActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
+
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:label="@string/title_activity_start_game" android:name="Activities.StartGameActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
 
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
     </application>
-    <uses-sdk android:minSdkVersion="3" android:targetSdkVersion="3"/>
+
+    <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="19"/>
 
 </manifest>

@@ -1,4 +1,4 @@
-package se.jayway.opengl.tutorial.mesh;
+package OpenGl.DrawObjects;
 
 public class Cube extends Mesh {
 	public Cube(float width, float height, float depth) {

@@ -1,4 +1,4 @@
-package se.jayway.opengl.tutorial.mesh;
+package OpenGl.DrawObjects;
 
 public class Plane extends Mesh {
 	public Plane() {
