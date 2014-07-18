@@ -12,6 +12,7 @@
         android:id="@+id/start_game_button"
         android:text="Start game"
         android:layout_width="match_parent"
+        android:onClick="OnStartGame"
         android:layout_height="45dp"/>
     <Button
         android:id="@+id/stats_game_button"
