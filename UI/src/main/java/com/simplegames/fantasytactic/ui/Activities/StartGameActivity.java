@@ -1,9 +1,11 @@
 package com.simplegames.fantasytactic.ui.Activities;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 
 import com.simplegames.fantasytactic.ui.R;
 
@@ -13,9 +15,12 @@ public class StartGameActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_start_game);
-        get
     }
 
+    public void OnStartGame(View view) {
+        Intent intent = new Intent(StartGameActivity.this, FantasyTacticGameActivity.class);
+        startActivity(intent);
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
