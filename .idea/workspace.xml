@@ -87,7 +87,7 @@
       <file leaf-file-name="City.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Models/City.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="22" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="255">
+            <state line="7" column="22" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
               <folding />
             </state>
           </provider>
@@ -96,8 +96,10 @@
       <file leaf-file-name="Mesh.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/DrawObjects/Mesh.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="48" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="4250">
-              <folding />
+            <state line="119" column="9" selection-start="3618" selection-end="3618" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4114">
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,34 +107,55 @@
       <file leaf-file-name="GeoObject.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Models/GeoObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="20" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="289">
+            <state line="9" column="26" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimplePlane.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/DrawObjects/SimplePlane.java">
+      <file leaf-file-name="Group.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/DrawObjects/Group.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="19" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="714">
-              <folding />
+            <state line="27" column="14" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0" vertical-offset="838" max-vertical-offset="1411">
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#215#221#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StartGameActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Activities/StartGameActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="223" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="867">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FantasyTacticGameActivity.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="FantasyTacticGameActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Activities/FantasyTacticGameActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="13" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="186" max-vertical-offset="833">
+            <state line="30" column="32" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.27419356" vertical-offset="0" max-vertical-offset="1020">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameController.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Controllers/GameController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="5" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Unit.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Models/Unit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="13" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OpenGLRenderer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/OpenGLRenderer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="76" selection-start="1512" selection-end="1512" vertical-scroll-proportion="0.0" vertical-offset="832" max-vertical-offset="1700">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -140,28 +163,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UI/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="68" selection-start="107" selection-end="107" vertical-scroll-proportion="0.029668411" vertical-offset="0" max-vertical-offset="573">
-              <folding>
-                <element signature="e#277#295#0" expanded="true" />
-                <element signature="e#439#457#0" expanded="true" />
-                <element signature="e#793#811#0" expanded="true" />
-              </folding>
+            <state line="23" column="0" selection-start="853" selection-end="853" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="activity_start_game.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UI/src/main/res/layout/activity_start_game.xml">
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state line="14" column="36" selection-start="655" selection-end="666" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="680">
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
           </provider>
         </entry>
       </file>
@@ -845,9 +864,11 @@
         <option value="$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Models/World.java" />
         <option value="$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/DrawObjects/Plane.java" />
         <option value="$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/DrawObjects/Mesh.java" />
-        <option value="$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Activities/FantasyTacticGameActivity.java" />
         <option value="$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/OpenGLRenderer.java" />
         <option value="$PROJECT_DIR$/UI/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Controllers/GameController.java" />
+        <option value="$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Models/GeoObject.java" />
+        <option value="$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Activities/FantasyTacticGameActivity.java" />
       </list>
     </option>
   </component>
@@ -902,7 +923,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -987,6 +1007,78 @@
               <option name="myItemId" value="ui" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OpenGl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FantasyTactic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fantasy Tactic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FantasyTactic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Fantasy Tactic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1024,6 +1116,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1037,6 +1130,7 @@
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
     <property name="FullScreen" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RunManager" selected="Android Application.UI">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -1068,6 +1162,19 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -1093,19 +1200,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1205,7 +1299,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1026" extended-state="0" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1220,7 +1314,7 @@
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32997763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1255,20 +1349,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/DrawObjects/SimplePlane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Activities/StartGameActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="43" selection-start="723" selection-end="723" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="867">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Models/World.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="18" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="221" />
@@ -1282,32 +1362,26 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/src/main/res/layout/activity_start_game.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="36" selection-start="655" selection-end="666" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="680">
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="74" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="459">
-          <folding>
-            <element signature="e#277#295#0" expanded="true" />
-            <element signature="e#439#457#0" expanded="true" />
-            <element signature="e#793#811#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Activities/FantasyTacticGameActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="22" selection-start="783" selection-end="797" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="493">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1334,7 +1408,9 @@
     <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/DrawObjects/Mesh.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="0" selection-start="439" selection-end="439" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="2023">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1353,32 +1429,26 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/src/main/res/layout/activity_start_game.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="42" selection-start="533" selection-end="550" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="680">
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="74" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="459">
-          <folding>
-            <element signature="e#277#295#0" expanded="true" />
-            <element signature="e#439#457#0" expanded="true" />
-            <element signature="e#793#811#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Activities/FantasyTacticGameActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="22" selection-start="783" selection-end="797" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="493">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1405,7 +1475,9 @@
     <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/DrawObjects/Mesh.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="0" selection-start="439" selection-end="439" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="2023">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1424,13 +1496,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/src/main/res/layout/activity_start_game.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="52" selection-start="1204" selection-end="1204" vertical-scroll-proportion="0.0" vertical-offset="476" max-vertical-offset="663">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/build.gradle">
@@ -1443,20 +1515,14 @@
     <entry file="file://$PROJECT_DIR$/UI/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="74" selection-start="632" selection-end="632" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="459">
-          <folding>
-            <element signature="e#277#295#0" expanded="true" />
-            <element signature="e#439#457#0" expanded="true" />
-            <element signature="e#793#811#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Activities/FantasyTacticGameActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="1" selection-start="812" selection-end="812" vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="493">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1483,7 +1549,9 @@
     <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/DrawObjects/Mesh.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="0" selection-start="439" selection-end="439" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="2023">
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1513,23 +1581,6 @@
         <state line="6" column="13" selection-start="159" selection-end="159" vertical-scroll-proportion="0.14834206" vertical-offset="0" max-vertical-offset="697" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Models/GeoObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="20" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="289">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Models/World.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="5" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/DrawObjects/Group.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="60" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1411" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/DrawObjects/ElfUIModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="60" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748" />
@@ -1540,35 +1591,89 @@
         <state line="2" column="28" selection-start="90" selection-end="90" vertical-scroll-proportion="0.059336822" vertical-offset="0" max-vertical-offset="680" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/DrawObjects/CityUIModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="13" selection-start="123" selection-end="123" vertical-scroll-proportion="0.14834206" vertical-offset="0" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/src/main/res/layout/activity_start_game.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="36" selection-start="655" selection-end="666" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="853" selection-end="853" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Activities/StartGameActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="223" selection-end="265" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="867">
+        <state line="20" column="91" selection-start="626" selection-end="626" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/DrawObjects/Mesh.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="48" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="4250">
-          <folding />
+        <state line="119" column="9" selection-start="3618" selection-end="3618" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4114">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/DrawObjects/Group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="14" selection-start="582" selection-end="582" vertical-scroll-proportion="0.0" vertical-offset="838" max-vertical-offset="1411">
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#215#221#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/DrawObjects/SimplePlane.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="19" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="714">
+        <state line="15" column="20" selection-start="356" selection-end="356" vertical-scroll-proportion="0.0" vertical-offset="141" max-vertical-offset="714">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/OpenGLRenderer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="223" selection-end="223" vertical-scroll-proportion="-1.7294939" vertical-offset="1127" max-vertical-offset="1700" />
+        <state line="46" column="76" selection-start="1512" selection-end="1512" vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="1700">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/OpenGl/DrawObjects/CityUIModel.java">
+    <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Controllers/GameController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="13" selection-start="123" selection-end="123" vertical-scroll-proportion="0.14834206" vertical-offset="0" max-vertical-offset="782" />
+        <state line="12" column="5" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Models/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="11" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Models/Unit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="13" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Models/City.java">
@@ -1578,33 +1683,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UI/src/main/res/layout/activity_start_game.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Models/GeoObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="36" selection-start="655" selection-end="666" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="680">
+        <state line="9" column="26" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/src/main/java/com/simplegames/fantasytactic/ui/Activities/FantasyTacticGameActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="13" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="186" max-vertical-offset="833">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UI/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="68" selection-start="107" selection-end="107" vertical-scroll-proportion="0.029668411" vertical-offset="0" max-vertical-offset="573">
-          <folding>
-            <element signature="e#277#295#0" expanded="true" />
-            <element signature="e#439#457#0" expanded="true" />
-            <element signature="e#793#811#0" expanded="true" />
-          </folding>
+        <state line="30" column="32" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.27419356" vertical-offset="0" max-vertical-offset="1020">
+          <folding />
         </state>
       </provider>
     </entry>
