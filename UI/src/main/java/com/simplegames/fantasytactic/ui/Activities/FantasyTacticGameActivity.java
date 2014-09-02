@@ -19,6 +19,7 @@ import com.simplegames.fantasytactic.ui.R;
 import java.util.UUID;
 
 
+
 public class FantasyTacticGameActivity extends Activity {
     private GameController _game;
     private World _world;
@@ -54,7 +55,7 @@ public class FantasyTacticGameActivity extends Activity {
 
         // Load the texture.
         plane.loadBitmap(BitmapFactory.decodeResource(getResources(),
-                R.drawable.map));
+               R.drawable.jay));
 
         // Add the plane to the renderer.
         renderer.addMesh(plane);

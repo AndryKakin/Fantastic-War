@@ -15,5 +15,6 @@ public class World {
     {
         Heidht = heidht;
         Width = width;
+		Cities = new ArrayList<City>();
     }
 }
